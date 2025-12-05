@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "latihan loop while", "latihan loop while\latihan loop while.csproj", "{F178B063-9071-4FA9-A99F-4BC437E87783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F178B063-9071-4FA9-A99F-4BC437E87783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F178B063-9071-4FA9-A99F-4BC437E87783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F178B063-9071-4FA9-A99F-4BC437E87783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F178B063-9071-4FA9-A99F-4BC437E87783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F54340B-4199-464C-AAEE-05CB339722DF}
+	EndGlobalSection
+EndGlobal
